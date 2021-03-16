@@ -1,0 +1,58 @@
+
+On the data type Float
+Sequential merge sort sort takes 1.104 seconds
+Parallel merge sort (futures) sort takes 0.61 seconds
+Parallel merge sort (completablefutures) sort takes 0.621 seconds
+Parallel merge sort (forkJoin) sort takes 0.567 seconds
+
+
+On the data type Point
+Sequential merge sort sort takes 1.464 seconds
+Parallel merge sort (futures) sort takes 0.821 seconds
+Parallel merge sort (completablefutures) sort takes 0.783 seconds
+Parallel merge sort (forkJoin) sort takes 0.767 seconds
+
+
+On the data type BigInteger
+Sequential merge sort sort takes 1.337 seconds
+Parallel merge sort (futures) sort takes 0.773 seconds
+Parallel merge sort (completablefutures) sort takes 0.707 seconds
+Parallel merge sort (forkJoin) sort takes 0.668 seconds
+
+
+On the data type Double
+Sequential merge sort sort takes 1.26 seconds
+Parallel merge sort (futures) sort takes 0.447 seconds
+Parallel merge sort (completablefutures) sort takes 0.505 seconds
+Parallel merge sort (forkJoin) sort takes 0.676 seconds
+================
+
+On the data type Float
+Sequential merge sort sort takes 2.274 seconds
+Parallel merge sort (futures) sort takes 0.578 seconds
+Parallel merge sort (completablefutures) sort takes 0.564 seconds
+Parallel merge sort (forkJoin) sort takes 0.415 seconds
+
+
+On the data type Point
+Sequential merge sort sort takes 3.506 seconds
+Parallel merge sort (futures) sort takes 0.789 seconds
+Parallel merge sort (completablefutures) sort takes 0.767 seconds
+Parallel merge sort (forkJoin) sort takes 0.533 seconds
+
+
+On the data type BigInteger
+Sequential merge sort sort takes 3.231 seconds
+Parallel merge sort (futures) sort takes 0.699 seconds
+Parallel merge sort (completablefutures) sort takes 0.668 seconds
+Parallel merge sort (forkJoin) sort takes 0.489 seconds
+
+
+On the data type String
+Sequential merge sort sort takes 2.875 seconds
+Parallel merge sort (futures) sort takes 0.555 seconds
+Parallel merge sort (completablefutures) sort takes 0.552 seconds
+Parallel merge sort (forkJoin) sort takes 0.552 seconds
+
+
+Process finished with exit code 0
